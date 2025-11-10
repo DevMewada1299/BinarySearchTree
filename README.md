@@ -1,4 +1,4 @@
-# Binary Search Tree - Multiprocessor CPU Optimization Guide
+# Binary Search Tree - Multiprocessor CPU Optimization
 
 ## Overview
 
