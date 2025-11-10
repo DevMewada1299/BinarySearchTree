@@ -1,0 +1,7 @@
+# No external dependencies required
+# All optimizations use Python standard library:
+# - multiprocessing
+# - concurrent.futures
+# - collections
+
+# Python 3.6+ required
